@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "category": "Inspiration",
+    "description": "fuck off"
+  },
+  {
+    "id": 2,
+    "category": "Friendship",
+    "description": "Maya and Riya had been best friends since childhood. Their bond began in the most unusual way—over a shared lunchbox in second grade. Maya had forgotten hers, and Riya quietly pushed her own towards Maya without saying a word. From that day on, they were inseparable... [continued up to 500 words]"
+  },
+  {
+    "id": 3,
+    "category": "Overcoming Fear",
+    "description": "When Arjun was younger, he was terrified of water. A near-drowning incident left him with a fear so deep, he couldn't even look at a swimming pool without feeling breathless. His parents tried everything—therapists, swimming instructors, even hypnosis. But nothing worked—until he met Mehul... [continued up to 500 words]"
+  },
+  {
+    "id": 4,
+    "category": "Kindness",
+    "description": "Story placeholder for Kindness (500 words)..."
+  },
+  {
+    "id": 5,
+    "category": "Courage",
+    "description": "Story placeholder for Courage (500 words)..."
+  },
+  {
+    "id": 6,
+    "category": "Adventure",
+    "description": "Story placeholder for Adventure (500 words)..."
+  },
+  {
+    "id": 7,
+    "category": "Family",
+    "description": "Story placeholder for Family (500 words)..."
+  },
+  {
+    "id": 8,
+    "category": "Dreams",
+    "description": "Story placeholder for Dreams (500 words)..."
+  },
+  {
+    "id": 9,
+    "category": "Loss and Hope",
+    "description": "Story placeholder for Loss and Hope (500 words)..."
+  },
+  {
+    "id": 10,
+    "category": "Nature",
+    "description": "Story placeholder for Nature (500 words)..."
+  },
+  {
+    "id": 11,
+    "category": "Learning",
+    "description": "Story placeholder for Learning (500 words)..."
+  },
+  {
+    "id": 12,
+    "category": "Technology",
+    "description": "Story placeholder for Technology (500 words)..."
+  },
+  {
+    "id": 13,
+    "category": "Self-Discovery",
+    "description": "Story placeholder for Self-Discovery (500 words)..."
+  },
+  {
+    "id": 14,
+    "category": "Leadership",
+    "description": "Story placeholder for Leadership (500 words)..."
+  },
+  {
+    "id": 15,
+    "category": "Resilience",
+    "description": "Story placeholder for Resilience (500 words)..."
+  },
+  {
+    "id": 16,
+    "category": "Creativity",
+    "description": "Story placeholder for Creativity (500 words)..."
+  },
+  {
+    "id": 17,
+    "category": "Empathy",
+    "description": "Story placeholder for Empathy (500 words)..."
+  },
+  {
+    "id": 18,
+    "category": "Travel",
+    "description": "Story placeholder for Travel (500 words)..."
+  },
+  {
+    "id": 19,
+    "category": "Cultural Pride",
+    "description": "Story placeholder for Cultural Pride (500 words)..."
+  },
+  {
+    "id": 20,
+    "category": "New Beginnings",
+    "description": "Story placeholder for New Beginnings (500 words)..."
+  }
+]
